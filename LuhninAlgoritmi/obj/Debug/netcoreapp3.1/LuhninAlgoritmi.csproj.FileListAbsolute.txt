@@ -1,0 +1,22 @@
+C:\Users\jonir\OneDrive\Työpöytä\Kurssit\Olio-ohjelmointi\ohjelmat\LuhninAlgoritmi\LuhninAlgoritmi\bin\Debug\netcoreapp3.1\LuhninAlgoritmi.exe
+C:\Users\jonir\OneDrive\Työpöytä\Kurssit\Olio-ohjelmointi\ohjelmat\LuhninAlgoritmi\LuhninAlgoritmi\bin\Debug\netcoreapp3.1\LuhninAlgoritmi.deps.json
+C:\Users\jonir\OneDrive\Työpöytä\Kurssit\Olio-ohjelmointi\ohjelmat\LuhninAlgoritmi\LuhninAlgoritmi\bin\Debug\netcoreapp3.1\LuhninAlgoritmi.runtimeconfig.json
+C:\Users\jonir\OneDrive\Työpöytä\Kurssit\Olio-ohjelmointi\ohjelmat\LuhninAlgoritmi\LuhninAlgoritmi\bin\Debug\netcoreapp3.1\LuhninAlgoritmi.runtimeconfig.dev.json
+C:\Users\jonir\OneDrive\Työpöytä\Kurssit\Olio-ohjelmointi\ohjelmat\LuhninAlgoritmi\LuhninAlgoritmi\bin\Debug\netcoreapp3.1\LuhninAlgoritmi.dll
+C:\Users\jonir\OneDrive\Työpöytä\Kurssit\Olio-ohjelmointi\ohjelmat\LuhninAlgoritmi\LuhninAlgoritmi\bin\Debug\netcoreapp3.1\LuhninAlgoritmi.pdb
+C:\Users\jonir\OneDrive\Työpöytä\Kurssit\Olio-ohjelmointi\ohjelmat\LuhninAlgoritmi\LuhninAlgoritmi\obj\Debug\netcoreapp3.1\LuhninAlgoritmi.csprojAssemblyReference.cache
+C:\Users\jonir\OneDrive\Työpöytä\Kurssit\Olio-ohjelmointi\ohjelmat\LuhninAlgoritmi\LuhninAlgoritmi\obj\Debug\netcoreapp3.1\LuhninAlgoritmi.AssemblyInfoInputs.cache
+C:\Users\jonir\OneDrive\Työpöytä\Kurssit\Olio-ohjelmointi\ohjelmat\LuhninAlgoritmi\LuhninAlgoritmi\obj\Debug\netcoreapp3.1\LuhninAlgoritmi.AssemblyInfo.cs
+C:\Users\jonir\OneDrive\Työpöytä\Kurssit\Olio-ohjelmointi\ohjelmat\LuhninAlgoritmi\LuhninAlgoritmi\obj\Debug\netcoreapp3.1\LuhninAlgoritmi.dll
+C:\Users\jonir\OneDrive\Työpöytä\Kurssit\Olio-ohjelmointi\ohjelmat\LuhninAlgoritmi\LuhninAlgoritmi\obj\Debug\netcoreapp3.1\LuhninAlgoritmi.pdb
+C:\Users\jonir\OneDrive - Satakunnan ammattikorkeakoulu Oy\Kurssit\Olio-ohjelmointi\ohjelmat\LuhninAlgoritmi\LuhninAlgoritmi\bin\Debug\netcoreapp3.1\LuhninAlgoritmi.exe
+C:\Users\jonir\OneDrive - Satakunnan ammattikorkeakoulu Oy\Kurssit\Olio-ohjelmointi\ohjelmat\LuhninAlgoritmi\LuhninAlgoritmi\bin\Debug\netcoreapp3.1\LuhninAlgoritmi.deps.json
+C:\Users\jonir\OneDrive - Satakunnan ammattikorkeakoulu Oy\Kurssit\Olio-ohjelmointi\ohjelmat\LuhninAlgoritmi\LuhninAlgoritmi\bin\Debug\netcoreapp3.1\LuhninAlgoritmi.runtimeconfig.json
+C:\Users\jonir\OneDrive - Satakunnan ammattikorkeakoulu Oy\Kurssit\Olio-ohjelmointi\ohjelmat\LuhninAlgoritmi\LuhninAlgoritmi\bin\Debug\netcoreapp3.1\LuhninAlgoritmi.runtimeconfig.dev.json
+C:\Users\jonir\OneDrive - Satakunnan ammattikorkeakoulu Oy\Kurssit\Olio-ohjelmointi\ohjelmat\LuhninAlgoritmi\LuhninAlgoritmi\bin\Debug\netcoreapp3.1\LuhninAlgoritmi.dll
+C:\Users\jonir\OneDrive - Satakunnan ammattikorkeakoulu Oy\Kurssit\Olio-ohjelmointi\ohjelmat\LuhninAlgoritmi\LuhninAlgoritmi\bin\Debug\netcoreapp3.1\LuhninAlgoritmi.pdb
+C:\Users\jonir\OneDrive - Satakunnan ammattikorkeakoulu Oy\Kurssit\Olio-ohjelmointi\ohjelmat\LuhninAlgoritmi\LuhninAlgoritmi\obj\Debug\netcoreapp3.1\LuhninAlgoritmi.csprojAssemblyReference.cache
+C:\Users\jonir\OneDrive - Satakunnan ammattikorkeakoulu Oy\Kurssit\Olio-ohjelmointi\ohjelmat\LuhninAlgoritmi\LuhninAlgoritmi\obj\Debug\netcoreapp3.1\LuhninAlgoritmi.AssemblyInfoInputs.cache
+C:\Users\jonir\OneDrive - Satakunnan ammattikorkeakoulu Oy\Kurssit\Olio-ohjelmointi\ohjelmat\LuhninAlgoritmi\LuhninAlgoritmi\obj\Debug\netcoreapp3.1\LuhninAlgoritmi.AssemblyInfo.cs
+C:\Users\jonir\OneDrive - Satakunnan ammattikorkeakoulu Oy\Kurssit\Olio-ohjelmointi\ohjelmat\LuhninAlgoritmi\LuhninAlgoritmi\obj\Debug\netcoreapp3.1\LuhninAlgoritmi.dll
+C:\Users\jonir\OneDrive - Satakunnan ammattikorkeakoulu Oy\Kurssit\Olio-ohjelmointi\ohjelmat\LuhninAlgoritmi\LuhninAlgoritmi\obj\Debug\netcoreapp3.1\LuhninAlgoritmi.pdb
